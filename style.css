@@ -1,0 +1,126 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #F4F4F4;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.buttom{
+    background-color: #303030;
+    color: white;
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+}
+.box1{
+    text-align: center;
+    display: flex;
+    background-color: #F7F7F7;
+    width: 100%;
+    height: 170px;
+    position: absolute;
+    top: 50px;
+}
+.box1 p{
+  
+    position: absolute;
+    top: 70px;
+    left: 470px;
+    font-size: 18px;
+    color: #525252;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ 
+}
+.box1 h1{
+    position: absolute;
+    top: 30px;
+    left:500px;
+    font-size: 28px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #525252;
+}
+.box2{
+    background-color: #F7F7F7;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    width: 100%;
+    height: 300px;
+    position: absolute;
+    top: 220px;
+  
+}
+
+.project{
+    background-color:#FEFEFE;
+    border-radius: 10px;
+    width: 190px;
+    height: 100px;
+    margin-top: 20px;
+    margin-right: 15px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+}
+.box2 h2{
+    position: absolute;
+    top: -40px;
+}
+
+.box3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #ECECEC;
+    width: 100%;
+    height: 350px;
+    position: absolute;
+    top: 520px;
+    font-weight: 100%;
+  
+}
+
+.ul li{
+    background-color: #006FFE;
+    color: white;
+    padding: 10px;
+    border-radius: 7px;
+
+}
+.box4{
+    background-color: #747474;
+    border-radius: 10px;
+    width: 500px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    margin-top: 830px;
+}
+.wh{
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+}
+.message{
+    height: 160px;
+    border-radius: 20px;
+    border: none;
+}
+button{
+    background-color: #26A639;
+    border-radius: 10px;
+    width: 100%;
+    height: 40px;
+    text-align: center;
+}
+.toptext{
+    background-color: #303030;
+    color: white;
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+}
+.©{
+    background-color: #303030;
+    color: white;
+    text-align: center;}
